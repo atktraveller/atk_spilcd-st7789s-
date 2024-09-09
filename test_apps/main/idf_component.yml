@@ -1,0 +1,7 @@
+dependencies:
+  idf:
+    version: ">=4.1.0"
+
+  # The local component being tested
+  ATK_SPILCD_ST7789S:
+    path: ../..

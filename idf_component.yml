@@ -1,0 +1,8 @@
+dependencies:
+  cmake_utilities:
+    version: 0.*
+  idf:
+    version: '>=4.4'
+description: ATK 2.4 inch SPILCD(ST7789S)
+url: https://github.com/espressif/esp-bsp/tree/master/components/lcd/esp_lcd_ili9341
+version: 1.0.0
